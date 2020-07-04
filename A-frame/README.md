@@ -43,4 +43,3 @@ The websocket to exchange messages between the A-Frame and the PI:
 ws://<raspberryIP>:8080/ws
 ```
 
-Enjoy ;)
