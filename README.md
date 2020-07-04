@@ -21,4 +21,9 @@ The Pi converts the accelometers values into degrees.
 The degrees are then converted into duty cycle to operate the servo motor 
 
 
-<img src="https://github.com/alam121/picam/blob/master/1.JPG" width="250" height="250">
+For live feed video streming A Frame web framework was implemented 
+
+Reference for calculations:
+https://www.hobbytronics.co.uk/accelerometer-info
+https://www.hackster.io/mjrobot/pan-tilt-multi-servo-control-b67791
+
