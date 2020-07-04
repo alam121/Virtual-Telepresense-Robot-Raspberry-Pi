@@ -12,3 +12,13 @@ The telepresense part of the robot includes the following items:
 * Servo motor
 * Mobile phone with accelerometer sensor
 
+
+
+<img src="https://github.com/alam121/picam/blob/master/1.JPG" width="250" height="250">
+
+The mobile phone accelerometer transmits the data through Wifi UDP communication to the Raspberry Pi(according to the reciever and transmitter IP address).
+The Pi converts the accelometers values into degrees.
+The degrees are then converted into duty cycle to operate the servo motor 
+
+
+<img src="https://github.com/alam121/picam/blob/master/1.JPG" width="250" height="250">
